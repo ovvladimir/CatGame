@@ -1,0 +1,82 @@
+
+images1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CatAnim
+  rotate: false
+  xy: 2, 2
+  size: 1898, 190
+  orig: 1898, 190
+  offset: 0, 0
+  index: -1
+cat
+  rotate: false
+  xy: 2, 194
+  size: 1360, 190
+  orig: 1360, 190
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 386
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Mars
+  rotate: false
+  xy: 2, 1108
+  size: 950, 320
+  orig: 950, 320
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1284, 386
+  size: 620, 204
+  orig: 620, 204
+  offset: 0, 0
+  index: -1
+bat
+  rotate: false
+  xy: 1364, 194
+  size: 300, 150
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 1666, 194
+  size: 230, 61
+  orig: 230, 61
+  offset: 0, 0
+  index: -1
+Rocket
+  rotate: false
+  xy: 1284, 592
+  size: 200, 330
+  orig: 200, 330
+  offset: 0, 0
+  index: -1
+frog
+  rotate: false
+  xy: 1666, 257
+  size: 192, 61
+  orig: 192, 61
+  offset: 0, 0
+  index: -1
+angle
+  rotate: false
+  xy: 1902, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+star16
+  rotate: false
+  xy: 1960, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
